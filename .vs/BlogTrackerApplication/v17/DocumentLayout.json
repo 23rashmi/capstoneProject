@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|solutionrelative:dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|c:\\users\\priye\\downloads\\blogtrackerapplication\\blogtrackerapplication-main\\blogtrackerapplication\\dal\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|solutionrelative:dal\\admininfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BlogTrackerApplication||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC41B2-B960-4035-A8D3-ED09334EFA19}|BlogTrackerApplication\\BlogTrackerApplication.csproj|c:\\users\\priye\\downloads\\blogtrackerapplication\\blogtrackerapplication-main\\blogtrackerapplication\\blogtrackerapplication\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC41B2-B960-4035-A8D3-ED09334EFA19}|BlogTrackerApplication\\BlogTrackerApplication.csproj|solutionrelative:blogtrackerapplication\\controllers\\admininfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\dal\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|solutionrelative:dal\\bloginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}|DALTest\\DALTest.csproj|C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\daltest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}|DALTest\\DALTest.csproj|solutionrelative:daltest\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC41B2-B960-4035-A8D3-ED09334EFA19}|BlogTrackerApplication\\BlogTrackerApplication.csproj|c:\\users\\priye\\downloads\\blogtrackerapplication\\blogtrackerapplication-main\\blogtrackerapplication\\blogtrackerapplication\\models\\admininfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC41B2-B960-4035-A8D3-ED09334EFA19}|BlogTrackerApplication\\BlogTrackerApplication.csproj|solutionrelative:blogtrackerapplication\\models\\admininfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43810AE6-90BB-4686-8B2A-1059F3D510AA}|Blog\\Blog.csproj|c:\\users\\priye\\downloads\\blogtrackerapplication\\blogtrackerapplication-main\\blogtrackerapplication\\blog\\controllers\\bloginfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43810AE6-90BB-4686-8B2A-1059F3D510AA}|Blog\\Blog.csproj|solutionrelative:blog\\controllers\\bloginfocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|c:\\users\\priye\\downloads\\blogtrackerapplication\\blogtrackerapplication-main\\blogtrackerapplication\\dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|solutionrelative:dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\dal\\seedmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDA6998F-001C-4758-9F44-38079708FB88}|DAL\\DAL.csproj|solutionrelative:dal\\seedmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeedMethod.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\SeedMethod.cs",
+              "RelativeDocumentMoniker": "DAL\\SeedMethod.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\SeedMethod.cs",
+              "RelativeToolTip": "DAL\\SeedMethod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:49:25.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DALTest\\Test.cs",
+              "RelativeDocumentMoniker": "DALTest\\Test.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DALTest\\Test.cs",
+              "RelativeToolTip": "DALTest\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:49:26.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogInfo.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\BlogInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\BlogInfo.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\BlogInfo.cs",
+              "RelativeToolTip": "DAL\\BlogInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-28T10:49:26.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\App.config",
+              "RelativeDocumentMoniker": "DAL\\App.config",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\App.config",
+              "RelativeToolTip": "DAL\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-28T10:49:26.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogTrackerApplication",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\BlogTrackerApplication.csproj",
+              "RelativeDocumentMoniker": "BlogTrackerApplication\\BlogTrackerApplication.csproj",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\BlogTrackerApplication.csproj",
+              "RelativeToolTip": "BlogTrackerApplication\\BlogTrackerApplication.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-02-28T10:55:09.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\packages.config",
+              "RelativeDocumentMoniker": "DAL\\packages.config",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\packages.config",
+              "RelativeToolTip": "DAL\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-02-29T07:35:51.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BloginfoController.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\Blog\\Controllers\\BloginfoController.cs",
+              "RelativeDocumentMoniker": "Blog\\Controllers\\BloginfoController.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\Blog\\Controllers\\BloginfoController.cs",
+              "RelativeToolTip": "Blog\\Controllers\\BloginfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:43:16.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminInfoModel.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\Models\\AdminInfoModel.cs",
+              "RelativeDocumentMoniker": "BlogTrackerApplication\\Models\\AdminInfoModel.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\Models\\AdminInfoModel.cs",
+              "RelativeToolTip": "BlogTrackerApplication\\Models\\AdminInfoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:43:31.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminInfoController.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\Controllers\\AdminInfoController.cs",
+              "RelativeDocumentMoniker": "BlogTrackerApplication\\Controllers\\AdminInfoController.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\BlogTrackerApplication\\Controllers\\AdminInfoController.cs",
+              "RelativeToolTip": "BlogTrackerApplication\\Controllers\\AdminInfoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T07:43:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminInfo.cs",
+              "DocumentMoniker": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\AdminInfo.cs",
+              "RelativeDocumentMoniker": "DAL\\AdminInfo.cs",
+              "ToolTip": "C:\\Users\\priye\\Downloads\\BlogTrackerApplication\\BlogTrackerApplication-main\\BlogTrackerApplication\\DAL\\AdminInfo.cs",
+              "RelativeToolTip": "DAL\\AdminInfo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-29T08:02:25.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

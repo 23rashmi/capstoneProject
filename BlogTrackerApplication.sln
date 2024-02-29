@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogTrackerApplication", "BlogTrackerApplication\BlogTrackerApplication.csproj", "{9CFC41B2-B960-4035-A8D3-ED09334EFA19}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDA6998F-001C-4758-9F44-38079708FB88} = {FDA6998F-001C-4758-9F44-38079708FB88}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{FDA6998F-001C-4758-9F44-38079708FB88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blog", "Blog\Blog.csproj", "{43810AE6-90BB-4686-8B2A-1059F3D510AA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9CFC41B2-B960-4035-A8D3-ED09334EFA19} = {9CFC41B2-B960-4035-A8D3-ED09334EFA19}
+		{FDA6998F-001C-4758-9F44-38079708FB88} = {FDA6998F-001C-4758-9F44-38079708FB88}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALTest", "DALTest\DALTest.csproj", "{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FDA6998F-001C-4758-9F44-38079708FB88} = {FDA6998F-001C-4758-9F44-38079708FB88}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CFC41B2-B960-4035-A8D3-ED09334EFA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CFC41B2-B960-4035-A8D3-ED09334EFA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CFC41B2-B960-4035-A8D3-ED09334EFA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CFC41B2-B960-4035-A8D3-ED09334EFA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDA6998F-001C-4758-9F44-38079708FB88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDA6998F-001C-4758-9F44-38079708FB88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDA6998F-001C-4758-9F44-38079708FB88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDA6998F-001C-4758-9F44-38079708FB88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43810AE6-90BB-4686-8B2A-1059F3D510AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43810AE6-90BB-4686-8B2A-1059F3D510AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43810AE6-90BB-4686-8B2A-1059F3D510AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43810AE6-90BB-4686-8B2A-1059F3D510AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50D6E2D3-D76F-4BBB-9856-545CECB1CDC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48BBA223-FD6A-4E87-8550-1220E2B9DC04}
+	EndGlobalSection
+EndGlobal
